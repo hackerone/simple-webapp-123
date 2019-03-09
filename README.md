@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Resources
+
+https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
+https://react-bootstrap.github.io / https://getbootstrap.com/
+
+Python resources:
+http://flask.pocoo.org/
+https://www.djangoproject.com/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
